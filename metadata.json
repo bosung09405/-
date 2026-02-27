@@ -1,0 +1,7 @@
+{
+  "name": "보스셀렉 (Boss Select)",
+  "description": "사진을 고르는 게 아니라 마음을 정리해주는, 보스의 맞춤형 사진 셀렉 가이드",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
